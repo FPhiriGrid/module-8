@@ -1,5 +1,7 @@
 # module-8
 Testing Tools tasks
+
+
 Postman task:
 1. Install Postman REST Client
 
@@ -28,6 +30,7 @@ Postman task:
 * you need to use the same board id for all requests, so please extract the variable from the response to the POST request.
 
 USE DOC: https://developer.atlassian.com/cloud/trello/rest/api-group-boards/
+
 
 
 Charles Proxy task:
@@ -92,6 +95,8 @@ Analyze the results.
 
 
 
+
+
 SQL task:
 1. Download DB and pdf schema:
 
@@ -105,6 +110,7 @@ https://drive.google.com/drive/folders/1seZq0a15lFxH0mO78fG2pyNk1O5zSOO6?usp=sha
 
 
 Attach requests for queries and screenshots with results
+
 
 
 
